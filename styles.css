@@ -10,7 +10,6 @@ h4{
 }
 
 body{
-    background-color: rgb(7, 71, 71);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,8 +20,8 @@ body{
     position: relative;
     padding: 5px;
     width: 280px;
-    border: 1px solid;
-    box-shadow: 10px 10px 15px #0000ff55;
+    border: 2px solid;
+    box-shadow: 10px 10px 15px #000000a5;
     border-radius: 10px;
     background-image: url("./img/fondo1.jpg");
     background-size: cover;
@@ -42,7 +41,7 @@ img{
     left: 0px;
     width: 280px;
     height: 100%;
-    background-color: #00000055;
+    background-color: #00000015;
 }
 
 .tarjeta > p{
