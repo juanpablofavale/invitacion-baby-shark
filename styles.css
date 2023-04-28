@@ -53,6 +53,8 @@ img {
     width: 280px;
     height: 100%;
     background-color: #00000015;
+    background-image: url("./img/burbujas-azul2.gif");
+    background-position: -15px;
 }
 
 .tarjeta>p {
