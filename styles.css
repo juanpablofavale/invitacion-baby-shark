@@ -17,6 +17,7 @@ body {
 }
 
 .tarjeta {
+    cursor: pointer;
     position: relative;
     padding: 5px;
     width: 280px;
