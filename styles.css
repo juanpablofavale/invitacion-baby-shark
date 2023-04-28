@@ -11,6 +11,8 @@ h4{
 
 body{
     display: flex;
+    gap: 15px;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 90vh;
