@@ -96,7 +96,6 @@ img{
 
 .d2{
     border-top: 4px dashed white;
-    background-color: #00000055;
     border-radius: 0 0 10px 10px;
 }
 
@@ -107,15 +106,15 @@ img{
     align-items: center;
     justify-content: center;
     width: 50%;
-    color: #fffb00;
-    text-shadow: 1px 1px 1px black;
+    color: #7a7800;
+    text-shadow: 1px 1px 2px white,-1px -1px 2px white;
 }
 
 .direccion{
     width: 50%;
     text-align: center;
-    color: #09ff01;
-    text-shadow: 1px 1px 1px black;
+    color: #046b00;
+    text-shadow: 1px 1px 2px white,-1px -1px 2px white;
     margin-top: -10px;
 }
 
