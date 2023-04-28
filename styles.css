@@ -76,6 +76,7 @@ img {
 .datos>h3 {
     font-family: sans-serif;
     font-family: "Roboto Slab";
+    font-weight: bold;
     text-align: center;
     color: #fffb00;
     text-shadow: 1px 1px 1px black;
@@ -99,7 +100,7 @@ img {
     color: #66ff00;
     text-shadow: 1px 1px 1px black;
     text-shadow: 0 0 10px #00ff00,0 0 10px #00ff00;
-    text-shadow: 0 0 10px black,0 0 10px black;
+    text-shadow: 0 0 10px #000000,0 0 10px #000000;
 }
 
 .datos {
