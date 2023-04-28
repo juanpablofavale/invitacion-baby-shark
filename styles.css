@@ -95,12 +95,10 @@ img{
 }
 
 .d2{
-    border-top: 4px dashed white;
     border-radius: 0 0 10px 10px;
 }
 
 .fecha{
-    border-right: 4px dashed white;
     display: flex;
     flex-direction: column;
     align-items: center;
