@@ -28,10 +28,21 @@ body{
 }
 
 img{
-    top: 55px;
-    left: -5px;
+    top: 40px;
+    left: 15px;
     position: absolute;
     width: 150px;
+}
+
+.nuestro{
+    padding-top: 15px;
+    font-size: 30px;
+    color: #ffa600;
+    text-shadow: 1px 1px 1px black;
+}
+
+.cumple{
+    padding-left: 15px;
 }
 
 .sombra{
@@ -49,6 +60,26 @@ img{
     text-align: center;
     margin-bottom: 20px;
     font-weight: bold;
+    color: #d400ff;
+    text-shadow: 1px 1px 1px black;
+}
+
+.datos > h3{
+    color: #d9ff00;
+    text-shadow: 1px 1px 1px black;
+    font-size: 100px;
+}
+
+.datos > h4{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+.nom{
+    font-size: 45px;
+    color: #ff0000;
+    text-shadow: 1px 1px 1px black;
 }
 
 .datos{
@@ -65,6 +96,7 @@ img{
 .d2{
     border-top: 4px dashed white;
     height: 70px;
+    padding-top: 20px;
 }
 
 .fecha{
@@ -74,21 +106,28 @@ img{
     align-items: center;
     justify-content: center;
     width: 50%;
+    color: #fffb00ab;
+    text-shadow: 1px 1px 1px black;
 }
 
 .direccion{
     width: 50%;
     text-align: center;
+    color: #09ff01bd;
+    text-shadow: 1px 1px 1px black;
+    margin-top: -10px;
 }
 
-.datos h3{
-    font-size: 70px;
+h4{
+    font-size: 20px;
 }
 
 .cancion{
     margin: 10px;
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(245, 20, 58);
 }
 
 .nuestro{
@@ -96,8 +135,11 @@ img{
 }
 
 h5{
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     margin: 5px;
+    margin-top: 20px;
     padding: 5px;
+    color: #000000;
+    text-shadow: 1px 1px 1px white;
 }
