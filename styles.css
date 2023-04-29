@@ -152,3 +152,15 @@ h5 {
     color: #000000;
     text-shadow: 1px 1px 1px white;
 }
+
+#jpf{
+    cursor: pointer;
+    text-decoration: none;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    font-family: "Foldit";
+    font-size: 35px;
+    text-shadow: 0 0 25px #00ff00,0 0 25px #00ff00;
+}
