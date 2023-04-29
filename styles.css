@@ -43,8 +43,7 @@ img {
     font-size: 30px;
     color: #ffa600;
     text-shadow: 1px 1px 1px black;
-    text-align: end;
-    padding-right: 15px;
+    text-align: start;
 }
 
 .cumple {
@@ -91,8 +90,7 @@ img {
 }
 
 .nom {
-    text-align:end;
-    padding-right: 15px;
+    text-align: start;
     font-size: 45px;
     color: #000000;
     color: #66ff00;
